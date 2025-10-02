@@ -1,8 +1,8 @@
-# Material para taller *Hands-on EEG: introducción a la simulación, procesamiento y análisis de EEG con Python*
-
-<img align="right" src="neuroialogo.png" alt="Neuro-IA Lab" width="210">
+# *Hands-on EEG: introducción a la simulación, procesamiento y análisis de EEG con Python*
 
 ## IMPORTANTE
+
+<img align="right" src="neuroialogo.png" alt="Neuro-IA Lab" width="210">
 
 Este repositorio es un material complementario para el taller *Hands-on EEG: introducción a la simulación, procesamiento y análisis de EEG con Python* a dictarse el día 14 de octubre de 2025 en el XXV congreso Argentino de Bioingeniería de la Sociedad Argentina de Bioingeniería.
 
